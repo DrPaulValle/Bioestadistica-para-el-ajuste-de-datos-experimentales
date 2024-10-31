@@ -1,11 +1,10 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Bioestadistica-para-el-ajuste-de-datos-experimentales)
 
 # Taller: Liberación controlada de fármacos por hidrogeles
-Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
-Tecnológico Nacional de México [TecNM - Tijuana], Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
 # Autor
 Paul A. Valle
+
 Posgrado en Ciencias de la Ingeniería, Grupo de investigación BioMath, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
 
 # Palabras clave
